@@ -1,2 +1,2 @@
-# Test
-My first repository
+# Roshambo
+This repository hosts a sleek implementation of the beloved Rock-Paper-Scissors game. Engage in lively matches against the computer, with randomized selections ensuring every round is full of surprises. Track your victories, defeats, and draws as you immerse yourself in this timeless competition. Just clone the repository, launch the Python script, and let the games begin! Experience the excitement of Rock-Paper-Scissors like never before.
